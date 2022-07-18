@@ -1,4 +1,4 @@
-# image_auto_watermarker
+# Automark your images!
 Automatically adds watermark to the input image.
 ## Getting started
 To get started all you need to do is to download files from this directory and run main.py in IDE of your choice.
